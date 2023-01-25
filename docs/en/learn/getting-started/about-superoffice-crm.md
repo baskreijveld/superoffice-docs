@@ -44,3 +44,33 @@ With the help of the SuperOffice mobile solutions, you can gain access to the in
 ## Common profile
 
 When all employees in the company use SuperOffice CRM, they have access to all the information they need, when and where they need it. SuperOffice CRM increases your teamwork and productivity through shared information. Using document templates gives all outgoing correspondence a consistent and professional appearance.
+
+## SuperOffice Requests
+
+SuperOffice Requests is a system for handling customer requests. The core of the system is the **Requests** module. All communication concerning a specific request is stored in a single location, regardless of it is by email, web form, phone or another channel. In this way, the organization ensures that all requests are followed up, and that no enquiries sit unanswered in the users' own inboxes.
+
+Requests can be categorized, prioritized and routed. Most importantly, all communication with a customer can be tracked, so that users can always maintain an overview of each customer relationship. The system also has other modules and functions associated with the Requests module.
+
+For example, there is an internal knowledge base consisting of reply templates and FAQs. This data can be used for look-up, or users can make them available to customers. It is also possible to link SuperOffice Service to an external customer portal where the customer can follow-up their requests. Using a customer portal, customers can also have access to FAQs, so that they can find answers to their queries without having to contact a request handler.
+
+## SuperOffice Settings and maintenance
+
+Settings and maintenance is the administration client for SuperOffice CRM.
+
+The navigator buttons in Settings and maintenance activate their associated functions with a single click, making it easy to navigate quickly between the different parts of the system.
+
+You will find all information about **Settings and maintenance** on the sections for:
+
+* [Customisation][2]
+* [Administration and system settings][3]
+
+The **App Store** navigator button opens the SuperOffice App Store, where you can explore standard apps, modules and integrations that can expand your SuperOffice CRM.
+
+Certain features like import and scripting are only available from the [Windows-based administration client (Onsite)][1].
+
+<!-- Referenced links -->
+[1]: ../../onsite/win-client/learn/index.md
+[2]: ../customization.yml
+[3]: ../administration.yml
+
+<!-- Referenced images -->

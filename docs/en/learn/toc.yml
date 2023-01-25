@@ -5,6 +5,8 @@ items:
     href: getting-started/toc.yml
   - name: Learn the basics
     items:
+    - name: Overview
+      href: getting-started/learn-basics.md
     - name: Favourites
       href: getting-started/fav.md
     - name: Delete an element

@@ -15,17 +15,7 @@ SuperOffice CRM is easy to get started with. It is extremely user-friendly with 
 
 Both new users and previous users of SuperOffice will benefit from reading this user guide. It gives an overview of the facilities and functions in SuperOffice CRM and explains how the program will benefit you and your company.
 
-## Using in-app help
-
-This help is designed to give you comprehensive and readily accessible information about how to use SuperOffice CRM. Wherever you are in the program, no matter what you are doing, you can always get help about the precise task you are involved in.
-
-You can open the help in three ways:
-
-* Select **Help Index** on the **Help** menu.
-* Press **F1**. This opens the help topic for the current screen.
-* Click the **Help** button displayed in the individual windows.
-
-## Main sections in Standard CRM
+## Main sections in SuperOffice CRM
 
 SuperOffice CRM consists of the following main sections:
 
@@ -36,6 +26,7 @@ SuperOffice CRM consists of the following main sections:
 * [Sale][11]
   * [Quote][12]
 * [Project][13]
+* [Requests][19]
 * [Selection][14]
 * [Inbox][15]
 * [Chat][16]
@@ -58,7 +49,7 @@ Most administration of SuperOffice CRM is performed via Settings and maintenance
 * [AI services][30]
 * [Lists][31]
 * [Quote/Sync][32]
-* Workflow
+* [Workflow][20]
 * [Screen designer][34]
 * [Preferences][35]
 * [Chat][16]
@@ -84,6 +75,7 @@ SuperOffice is available as an online application (cloud-based) and as an onsite
 * [Log in][4]
 * [The Main screen][5]
 * [Search options in SuperOffice CRM][6]
+* [Use in-app help][22]
 
 <!-- Referenced links -->
 [1]: main-screen/navigator.md
@@ -104,8 +96,10 @@ SuperOffice is available as an online application (cloud-based) and as an onsite
 [16]: ../../chat/learn/index.md
 [17]: ../../reports/learn/index.md
 [18]: ../../marketing/learn/index.md
-
+[19]: ../../request/learn/index.md
+[20]: ../../sale/learn/screen/sales-guide-admin.md
 [21]: ../../automation/crmscript/learn/index.md
+[22]: main-screen/in-app-help.md
 [23]: ../../service/customer-center/learn/index.md
 [24]: ../../ui/blogic/learn/index.md
 [25]: ../../admin/license/learn/index.md
@@ -114,9 +108,9 @@ SuperOffice is available as an online application (cloud-based) and as an onsite
 [28]: ../../security/privacy/learn/privacy.md
 [29]: ../../sale/saint/learn/index.md
 [30]: ../../ai/learn/index.md
-
 [31]: ../../admin/lists/learn/index.md
 [32]: ../../quote/learn/quote-sync/index.md
+
 [34]: ../../ui/screen-designer/learn/index.md
 [35]: ../../admin/preferences/learn/index.md
 [36]: ../../admin/options/learn/index.md

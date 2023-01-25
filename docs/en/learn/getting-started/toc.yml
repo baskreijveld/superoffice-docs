@@ -2,9 +2,7 @@ items:
 - name: Overview
   href: index.md
 - name: Introduction to SuperOffice CRM
-  href: about-standard-crm.md
-- name: Introduction to Settings and maintenance
-  href: about-admin.md
+  href: about-superoffice-crm.md
 - name: The layout elements
   href: main-screen/index.md
   items:
@@ -16,6 +14,8 @@ items:
     href: main-screen/global-buttons.md
   - name: Side panels
     href: main-screen/side-panel.md
+  - name: Use in-app help
+    href: main-screen/in-app-help.md
   - name: Resizing screen elements
     href: resizing-screen-elements.md
   - name: Note and Notepad

@@ -9,7 +9,7 @@ so.topic: help
 language: en
 ---
 
-# The Main screen
+# The layout elements on the Main screen
 
 The main screen in SuperOffice CRM consists of five main elements:
 
