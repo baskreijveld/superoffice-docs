@@ -26,7 +26,7 @@ SuperOffice CRM contains several different search tools:
 * [Use the history list][5]
 
 <!-- Referenced links -->
-[1]: find-dialog.md
+[1]: find-screen.md
 [2]: freetext-search.md
 [3]: using-fastsearcher.md
 [4]: ../../learn/getting-started/fav.md

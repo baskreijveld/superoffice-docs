@@ -31,6 +31,6 @@ To delete multiple records (contacts, companies, sales, projects, and so on), yo
 [!include[Note about restore](../../../../learn/includes/note-restore.md)]
 
 <!-- Referenced links -->
-[1]: ../../../learn/find-dialog.md
+[1]: ../../../learn/find-screen.md
 
 <!-- Referenced images -->
