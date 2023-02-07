@@ -13,7 +13,7 @@ language: en
 
 [!include[Requirement](../../../learn/includes/req-cep.md)]
 
-In the **Customer centre configuration** screen, you can edit the styling and layout of your customer centre. You can see your changes in the preview on the right side of the screen.
+In the **Customer centre configure** screen, you can edit the styling and layout of your customer centre. You can see your changes in the preview on the right side of the screen.
 
 If multiple languages are configured for your customer centre, you can set the options individually for each language. Options such as welcome text, opening hours and phone numbers can be specified for each language.
 
@@ -22,7 +22,7 @@ If multiple languages are configured for your customer centre, you can set the o
 
 **Steps:**
 
-1. Select ![icon][img1] **System settings** > **Customer centre config**. On the **Customer centre** screen you’ll see two tabs, one for **Styling** and one for **Options**. At the top of this page, you’ll find a link to the Customer Centre page where you can preview your Customer Centre.
+1. Select ![icon][img1] **Settings and maintenance** > **Customer centre** > **Configure**. On the **Customer centre** screen you’ll see two tabs, one for **Styling** and one for **Options**. At the top of this page, you’ll find a link to the Customer Centre page where you can preview your Customer Centre.
 
     > [!TIP]
     > You can also access the **Customer centre** screen from SuperOffice Settings and maintenance. Click **Customer centre** in the navigator and select the **Configure** tab.
@@ -31,7 +31,7 @@ If multiple languages are configured for your customer centre, you can set the o
 
 3. Go to the **Options** tab. Here you can edit the options for each language version of the customer centre.
 
-4. **Start page options | Select the language version you want to edit.
+4. In the **Start page options** drop down, select the language version you want to edit.
 
 5. Edit the various options. See details about each option below.
 
@@ -43,6 +43,8 @@ If multiple languages are configured for your customer centre, you can set the o
 
 ## Options
 
+| Field | Option settings |
+|---|---|
 | Logo URL | The link to the logo image. |
 | Site name | The title of the web page. |
 | Welcome, header | Title text displayed in the header field. |
