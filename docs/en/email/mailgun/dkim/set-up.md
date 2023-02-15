@@ -34,6 +34,8 @@ To make sure no one else, besides your company orders a DKIM key for your domain
 2. We will reply with the DKIM to the submitted email address.
 3. You will now need to add this DKIM to your DNS, see next step.
 
+(note: you can only obtain a DKIM key for one domain. Should you require a DKIM key for more domains, please consider using a custom SMTP)
+
 ## Open the domain settings for the Google domain
 
 [!include[ALT](../includes/open-google-domain-settings.md)]
